@@ -8,7 +8,7 @@ USAGE
 2) Assign a key (any alpha numeric key) to the lower right button.
 3) Run the script.
 4) Tell it what key you want it to press (the same key as in step 2).
-5) Tell it how many times to press the key -  I was getting about 100k ally points done in 1000 presses.
+5) Tell it how many times to press the key -  I was getting about 100k ally points done in 10,000 presses.
 6) Alt-Tab over back to bluestacks
 7) wait
 
